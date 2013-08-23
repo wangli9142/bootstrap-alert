@@ -1,0 +1,8 @@
+{
+  "name": "bootstrap-alert",
+  "description": "bootstrap alert package for toolshare",
+  "homepage": "https://github.com/wangli9142/bootstrap-alert",
+  "author": "wang",
+  "version": "0.0.1",
+  "git": "https://github.com/wangli9142/bootstrap-alert.git"
+}
